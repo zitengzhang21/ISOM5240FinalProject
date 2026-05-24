@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+models/*
+!models/.gitkeep
+results/*
+!results/.gitkeep
+images/*
+!images/.gitkeep
+*.pt
+*.bin
+*.safetensors
+.env
